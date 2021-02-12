@@ -6,7 +6,6 @@
         <p>{{ article.id }} - {{ article.body }}</p>
     </div>
 </template>
-
 <script>
 import Title from '@/components/Title';
 
